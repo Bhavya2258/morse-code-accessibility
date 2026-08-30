@@ -1,0 +1,6 @@
+{
+  "name": "Morse Code Accessibility",
+  "description": "Convert text to Morse code with haptic vibration, Wear OS smartwatch sync, and screen overlay accessibility tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
